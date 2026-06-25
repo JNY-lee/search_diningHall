@@ -1,0 +1,7 @@
+.coupon {
+  padding: 20rpx;
+}
+.coupon image {
+  width: 100%;
+  margin-bottom: 20rpx;
+}
